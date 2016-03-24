@@ -501,6 +501,7 @@
 				4F1BCEC61CA4160500C4957C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F1BCEC71CA4160500C4957C /* Build configuration list for PBXNativeTarget "raryosuTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +510,7 @@
 				4F1BCEC91CA4160500C4957C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F1BCECA1CA4160500C4957C /* Build configuration list for PBXNativeTarget "raryosuUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +519,7 @@
 				4F1BCECC1CA4160500C4957C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
