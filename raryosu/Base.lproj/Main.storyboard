@@ -25,7 +25,7 @@
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                     <connections>
-                        <outlet property="raryosuImg" destination="vN1-xt-7ny" id="190-rY-Rma"/>
+                        <outlet property="raryosuImage" destination="vN1-xt-7ny" id="190-rY-Rma"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
